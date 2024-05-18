@@ -1,0 +1,15 @@
+/Users/richardheaton/Projects/WebDevPath-BackEnd/WebDevPath-BackEnd/bin/Debug/net7.0/WebDevPath-BackEnd
+/Users/richardheaton/Projects/WebDevPath-BackEnd/WebDevPath-BackEnd/bin/Debug/net7.0/WebDevPath-BackEnd.deps.json
+/Users/richardheaton/Projects/WebDevPath-BackEnd/WebDevPath-BackEnd/bin/Debug/net7.0/WebDevPath-BackEnd.runtimeconfig.json
+/Users/richardheaton/Projects/WebDevPath-BackEnd/WebDevPath-BackEnd/bin/Debug/net7.0/WebDevPath-BackEnd.dll
+/Users/richardheaton/Projects/WebDevPath-BackEnd/WebDevPath-BackEnd/bin/Debug/net7.0/WebDevPath-BackEnd.pdb
+/Users/richardheaton/Projects/WebDevPath-BackEnd/WebDevPath-BackEnd/obj/Debug/net7.0/WebDevPath-BackEnd.csproj.AssemblyReference.cache
+/Users/richardheaton/Projects/WebDevPath-BackEnd/WebDevPath-BackEnd/obj/Debug/net7.0/WebDevPath-BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/richardheaton/Projects/WebDevPath-BackEnd/WebDevPath-BackEnd/obj/Debug/net7.0/WebDevPath-BackEnd.AssemblyInfoInputs.cache
+/Users/richardheaton/Projects/WebDevPath-BackEnd/WebDevPath-BackEnd/obj/Debug/net7.0/WebDevPath-BackEnd.AssemblyInfo.cs
+/Users/richardheaton/Projects/WebDevPath-BackEnd/WebDevPath-BackEnd/obj/Debug/net7.0/WebDevPath-BackEnd.csproj.CoreCompileInputs.cache
+/Users/richardheaton/Projects/WebDevPath-BackEnd/WebDevPath-BackEnd/obj/Debug/net7.0/WebDevPath-BackEnd.dll
+/Users/richardheaton/Projects/WebDevPath-BackEnd/WebDevPath-BackEnd/obj/Debug/net7.0/refint/WebDevPath-BackEnd.dll
+/Users/richardheaton/Projects/WebDevPath-BackEnd/WebDevPath-BackEnd/obj/Debug/net7.0/WebDevPath-BackEnd.pdb
+/Users/richardheaton/Projects/WebDevPath-BackEnd/WebDevPath-BackEnd/obj/Debug/net7.0/WebDevPath-BackEnd.genruntimeconfig.cache
+/Users/richardheaton/Projects/WebDevPath-BackEnd/WebDevPath-BackEnd/obj/Debug/net7.0/ref/WebDevPath-BackEnd.dll
